@@ -1,7 +1,7 @@
 # Cribl Pack for Syslog Input
 ----
 
-This Pack enables a variety of Functions when using Cribl Stream to receive data from syslog senders.  The pack is specifically to be used in combination with a Cribl Syslog source; syslog-formatted data arriving via other means are not supported by the pack.
+This Pack enables a variety of Functions when using Cribl Stream to receive data from syslog senders.  The pack is specifically to be used in combination with a Cribl Syslog source; syslog-formatted data arriving via other means are not supported by the pack. 
 
 Pack benefits:
 * Provides a pre-processing Pipeline for handling Cribl Stream's Syslog Source.
